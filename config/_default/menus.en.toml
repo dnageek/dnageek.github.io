@@ -8,8 +8,8 @@ weight = 1
 
 [[main]]
 weight = 2
-name = "Projects"
-url = "/projects"
+name = "Experience"
+url = "/resume"
 
 [[main]]
 name = "Publications"
