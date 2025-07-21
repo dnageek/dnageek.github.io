@@ -12,7 +12,12 @@ name = "Experience"
 url = "/resume"
 
 [[main]]
+weight = 3
+name = "Projects"
+url = "/projects"
+
+[[main]]
 name = "Publications"
 url = "/publications"
-weight = 3
+weight = 4
 
