@@ -1,6 +1,10 @@
 <h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
+<<<<<<< HEAD
 <p align="center">Hugoplate is a free starter template built with Hugo, and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
+=======
+<p align="center">Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
+>>>>>>> forked-origin/main
 
 <p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
@@ -93,7 +97,11 @@ To start using this template, you need to have some prerequisites installed on y
 
 ### 👉 Project Setup
 
+<<<<<<< HEAD
 We build this custom script to make your project setup easier. It will create a new Hugo theme folder, and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory. So that you can start your Hugo server without going into the exampleSite folder. Use the following command to setup your project.
+=======
+We built this custom script to make your project setup easier. It will create a new Hugo theme folder and clone the Hugoplate theme into it. Then move the exampleSite folder into the root directory. So that you can start your Hugo server without going into the exampleSite folder. Use the following command to setup your project.
+>>>>>>> forked-origin/main
 
 ```bash
 npm run project-setup
@@ -155,7 +163,11 @@ If you want to update the theme, then you can use the following command. It will
 npm run update-theme
 ```
 
+<<<<<<< HEAD
 > **Note:** This command will work after running `project-setup` script.
+=======
+> **Note:** This command will work after running the `project-setup` script.
+>>>>>>> forked-origin/main
 
 ### 👉 Update Modules
 
@@ -173,7 +185,11 @@ If you want to remove dark mode from your project, you can use the following com
 npm run remove-darkmode
 ```
 
+<<<<<<< HEAD
 > **Note:** This command will work before running `project-setup` script. If you already run the `project-setup` command, then you have to run `npm run theme-setup` first, and then you can run this command. afterward, you can run `npm run project-setup` again.
+=======
+> **Note:** This command will work before running the `project-setup` script. If you have already run the `project-setup` command, then you have to run `npm run theme-setup` first, and then you can run this command. Afterward, you can run `npm run project-setup` again.
+>>>>>>> forked-origin/main
 
 ---
 
@@ -199,7 +215,11 @@ We have provided 5 different deploy platform configurations with this template, 
 - [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
 - [AWS Amplify](https://aws.amazon.com/amplify/)
 
+<<<<<<< HEAD
 And if you want to Host some other hosting platforms. then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
+=======
+And if you want to host some other hosting platforms. Then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
+>>>>>>> forked-origin/main
 
 > **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
 
@@ -209,7 +229,11 @@ And if you want to Host some other hosting platforms. then you can build your pr
 
 ### 🐞 Reporting Issues
 
+<<<<<<< HEAD
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/hugoplate/issues). It’s possible someone has already reported the same problem.
+=======
+We use GitHub Issues as the official bug tracker for this Template. Please search [existing issues](https://github.com/zeon-studio/hugoplate/issues). Someone may have already reported the same problem.
+>>>>>>> forked-origin/main
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/hugoplate/issues).
 
 ### 📝 License
@@ -224,14 +248,23 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 
 ## 🖼️ Showcase
 
+<<<<<<< HEAD
 List of some projects people are building with **Hugoplate**!
 
 | [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) | [![ONO LLC](https://tinyurl.com/2fbjzwzn)](https://ono.day/)
 |:---:|:---:|:---:|:---:|
 | **Open Neuromorphic** | **AI Models** | **Hugobricks** | **ONO LLC** |
+=======
+List of some projects people are building with [**Hugoplate**!](https://github.com/zeon-studio/hugoplate/discussions/207)
+Don't forget to add yours.
+>>>>>>> forked-origin/main
 
 ---
 
 ## 💻 Need Customization?
 
+<<<<<<< HEAD
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/estimate-project).
+=======
+If you need a custom theme, theme customization, or complete website development services from scratch, you can [Hire Us](https://zeon.studio/estimate-project).
+>>>>>>> forked-origin/main
