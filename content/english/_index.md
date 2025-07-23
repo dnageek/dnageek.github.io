@@ -10,7 +10,7 @@ draft: false
 <!-- Left side: Image -->
 <div style="flex: 1;">
 
-  ![My Photo](/images/jiewu.jpg)
+  ![My Photo](/images/jiewu.JPG)
 
 </div>
 

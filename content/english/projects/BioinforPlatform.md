@@ -1,7 +1,7 @@
 ---
 title: Bioinformatics Infrastructure
 date: 2025-06-02
-image: "/images/bioinforplatform.png"
+image: "/images/BioinforPlatform.png"
 description: this is meta description
 tags: ["Infrastructure"]
 categories: []
