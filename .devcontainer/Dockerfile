@@ -2,11 +2,7 @@
 FROM node:23
 
 # Set environment variables for versions
-<<<<<<< HEAD
-ARG HUGO_VERSION=0.144.2
-=======
 ARG HUGO_VERSION=0.147.3
->>>>>>> forked-origin/main
 ARG GO_VERSION=1.24.0
 
 # Install dependencies
